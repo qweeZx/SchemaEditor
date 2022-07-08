@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SchemaEditor</string>
+    <string name="title">Выбор схемы</string>
 </resources>
